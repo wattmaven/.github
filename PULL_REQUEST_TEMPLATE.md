@@ -23,4 +23,5 @@
 - [ ] ✅ Build configuration change
 - [ ] 📝 Documentation
 - [ ] 🧪 Tests
+- [ ] 🔄 CI/CD (changes to workflows or CI configuration)
 - [ ] 🗑️ Chore
