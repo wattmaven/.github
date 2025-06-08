@@ -1,3 +1,3 @@
 # WattMaven
 
-See [our website](https://www.wattmaven.com) for more information.
+You can email us at [support@wattmaven.com](mailto:support@wattmaven.com).
